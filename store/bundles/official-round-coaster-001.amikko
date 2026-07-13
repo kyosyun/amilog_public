@@ -1,0 +1,56 @@
+{
+  "format": "amilog-recipe",
+  "version": 2,
+  "recipe": {
+    "title": "まんまるコースター",
+    "craft": "crochet",
+    "level": "L1",
+    "difficulty": "入門",
+    "memo": "コットン糸・かぎ針5/0〜7/0号。細編みで平らな円を編む練習にぴったり。増し目の位置を毎段少しずらすと角が立ちにくいです。"
+  },
+  "parts": [
+    {
+      "name": "本体",
+      "sortOrder": 0,
+      "targetRows": 5,
+      "rows": [
+        {
+          "rowNo": 1,
+          "content": "わの作り目からスタート",
+          "counts": false
+        },
+        {
+          "rowNo": 2,
+          "content": "わの中に細編み×6",
+          "counts": true
+        },
+        {
+          "rowNo": 3,
+          "content": "増し目×6",
+          "counts": true
+        },
+        {
+          "rowNo": 4,
+          "content": "（細編み×1、増し目）×6",
+          "counts": true
+        },
+        {
+          "rowNo": 5,
+          "content": "（細編み×2、増し目）×6",
+          "counts": true
+        },
+        {
+          "rowNo": 6,
+          "content": "（細編み×3、増し目）×6",
+          "counts": true
+        },
+        {
+          "rowNo": 7,
+          "content": "引き抜き編みで止めて、糸始末して完成（直径約10cm）",
+          "counts": false
+        }
+      ]
+    }
+  ],
+  "diagrams": []
+}

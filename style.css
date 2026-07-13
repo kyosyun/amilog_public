@@ -1,0 +1,45 @@
+/* amilog 法務ページ（公開用）の最小スタイル。ブランド寄りのやさしい配色。 */
+:root {
+  --paper: #FFF1F5;
+  --ink: #5A3A44;
+  --ink-soft: #A08790;
+  --rose: #D45E7F;
+  --line: #F7CFDC;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: -apple-system, "Hiragino Sans", "Noto Sans JP", sans-serif;
+  line-height: 1.8;
+  font-size: 16px;
+}
+.wrap {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 32px 20px 64px;
+}
+h1 { font-size: 28px; margin: 0 0 4px; }
+h2 { font-size: 20px; margin: 32px 0 8px; border-bottom: 2px solid var(--line); padding-bottom: 4px; }
+h3 { font-size: 17px; margin: 20px 0 6px; }
+a { color: var(--rose); }
+.lead { color: var(--ink-soft); }
+.meta { color: var(--ink-soft); font-size: 14px; }
+.links { list-style: none; padding: 0; margin: 20px 0; }
+.links li { margin: 8px 0; font-size: 18px; }
+.foot { color: var(--ink-soft); font-size: 14px; margin-top: 40px; }
+.back { display: inline-block; margin-bottom: 16px; font-size: 14px; }
+ol, ul { padding-left: 1.4em; }
+
+/* 出品案内（store/submit.html）のCTAボタン。 */
+.button {
+  display: inline-block;
+  background: var(--rose);
+  color: #fff;
+  text-decoration: none;
+  font-weight: 700;
+  padding: 12px 24px;
+  border-radius: 999px;
+}
+.button:hover { opacity: 0.9; }

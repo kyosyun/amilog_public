@@ -1,0 +1,931 @@
+{
+  "format": "amilog-recipe",
+  "version": 2,
+  "recipe": {
+    "title": "かんたんガーターマフラー",
+    "craft": "stick",
+    "level": "L1",
+    "difficulty": "入門",
+    "memo": "並太毛糸・棒針7〜8号。表編みだけの『ガーター編み』で編む、いちばんやさしいマフラー。目数・段数はお好みで調整OK。"
+  },
+  "parts": [
+    {
+      "name": "本体",
+      "sortOrder": 0,
+      "targetRows": 180,
+      "rows": [
+        {
+          "rowNo": 1,
+          "content": "作り目20目（お好みの幅に）",
+          "counts": false
+        },
+        {
+          "rowNo": 2,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 3,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 4,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 5,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 6,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 7,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 8,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 9,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 10,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 11,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 12,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 13,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 14,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 15,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 16,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 17,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 18,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 19,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 20,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 21,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 22,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 23,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 24,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 25,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 26,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 27,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 28,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 29,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 30,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 31,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 32,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 33,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 34,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 35,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 36,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 37,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 38,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 39,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 40,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 41,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 42,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 43,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 44,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 45,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 46,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 47,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 48,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 49,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 50,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 51,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 52,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 53,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 54,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 55,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 56,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 57,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 58,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 59,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 60,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 61,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 62,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 63,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 64,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 65,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 66,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 67,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 68,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 69,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 70,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 71,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 72,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 73,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 74,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 75,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 76,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 77,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 78,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 79,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 80,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 81,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 82,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 83,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 84,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 85,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 86,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 87,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 88,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 89,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 90,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 91,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 92,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 93,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 94,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 95,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 96,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 97,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 98,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 99,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 100,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 101,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 102,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 103,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 104,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 105,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 106,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 107,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 108,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 109,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 110,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 111,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 112,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 113,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 114,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 115,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 116,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 117,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 118,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 119,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 120,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 121,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 122,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 123,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 124,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 125,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 126,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 127,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 128,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 129,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 130,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 131,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 132,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 133,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 134,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 135,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 136,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 137,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 138,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 139,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 140,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 141,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 142,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 143,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 144,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 145,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 146,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 147,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 148,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 149,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 150,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 151,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 152,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 153,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 154,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 155,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 156,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 157,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 158,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 159,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 160,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 161,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 162,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 163,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 164,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 165,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 166,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 167,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 168,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 169,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 170,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 171,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 172,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 173,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 174,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 175,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 176,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 177,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 178,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 179,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 180,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 181,
+          "content": "表編み×20",
+          "counts": true
+        },
+        {
+          "rowNo": 182,
+          "content": "お好みの長さになったら伏せ止め・糸始末して完成",
+          "counts": false
+        }
+      ]
+    }
+  ],
+  "diagrams": []
+}

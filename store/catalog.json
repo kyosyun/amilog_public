@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "updatedAt": "2026-07-08",
+  "items": [
+    {
+      "id": "official-garter-scarf-001",
+      "title": "かんたんガーターマフラー",
+      "author": "amilog公式",
+      "craft": "stick",
+      "level": "L1",
+      "difficulty": "入門",
+      "price": 0,
+      "coverUrl": "covers/official-garter-scarf-001.png",
+      "bundleUrl": "bundles/official-garter-scarf-001.amikko",
+      "tags": [
+        "棒針"
+      ],
+      "publishedAt": "2026-07-08"
+    },
+    {
+      "id": "official-round-coaster-001",
+      "title": "まんまるコースター",
+      "author": "amilog公式",
+      "craft": "crochet",
+      "level": "L1",
+      "difficulty": "入門",
+      "price": 0,
+      "coverUrl": "covers/official-round-coaster-001.png",
+      "bundleUrl": "bundles/official-round-coaster-001.amikko",
+      "tags": [
+        "かぎ針"
+      ],
+      "publishedAt": "2026-07-08"
+    }
+  ]
+}

@@ -1,6 +1,23 @@
 {
   "format": "amilog-recipe",
   "version": 2,
+  "materials": [
+    {
+      "kind": "yarn",
+      "name": "並太毛糸（お好みの色）",
+      "amount": {
+        "value": 3,
+        "unit": "玉"
+      },
+      "needle": "棒針7〜8号",
+      "links": []
+    },
+    {
+      "kind": "needle",
+      "name": "棒針7〜8号",
+      "links": []
+    }
+  ],
   "recipe": {
     "title": "かんたんガーターマフラー",
     "craft": "stick",

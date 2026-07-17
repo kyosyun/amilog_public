@@ -1,0 +1,127 @@
+{
+  "format": "amilog-recipe",
+  "version": 2,
+  "materials": [
+    {
+      "kind": "yarn",
+      "name": "コットンエブリィ〈ラメ〉",
+      "color": "1番",
+      "amount": {
+        "value": 1,
+        "unit": "玉"
+      },
+      "needle": "かぎ針4号",
+      "links": [],
+      "substitutes": [
+        {
+          "name": "コットン系の合太〜並太",
+          "note": "ゲージ確認を推奨"
+        }
+      ]
+    },
+    {
+      "kind": "yarn",
+      "name": "セリア「レピ」（フリル用）",
+      "color": "8番",
+      "amount": {
+        "value": 0.2,
+        "unit": "玉"
+      },
+      "links": []
+    },
+    {
+      "kind": "needle",
+      "name": "かぎ針4号",
+      "links": []
+    },
+    {
+      "kind": "accessory",
+      "name": "ヘアゴム（大きすぎないもの）",
+      "links": []
+    }
+  ],
+  "recipe": {
+    "title": "スクエアシュシュ",
+    "craft": "crochet",
+    "level": "L1",
+    "difficulty": "入門",
+    "memo": "コットン糸（例: コットンエブリィ〈ラメ〉1玉＋フリル用の別糸少量）・かぎ針4号・ヘアゴム。グラニースクエアとほぼ同じ編み方の繰り返しで、見た目より簡単。編み方動画と一緒にどうぞ🧶"
+  },
+  "parts": [
+    {
+      "name": "本体",
+      "sortOrder": 0,
+      "targetRows": 10,
+      "rows": [
+        {
+          "rowNo": 1,
+          "content": "準備: ヘアゴムに糸を当て、輪の中から糸を1回引き出して作り目（目には数えない）",
+          "counts": false
+        },
+        {
+          "rowNo": 2,
+          "content": "立ち上がり鎖3（3目めにマーカー）＋ゴムを編みくるんで長編み2→【鎖1＋長編み3】×4→角は鎖3→【長編み3＋鎖1】×4＋長編み3 …残り2辺も同様→最後は鎖1＋マーカーに中長編み（1辺5ブロック）",
+          "counts": true
+        },
+        {
+          "rowNo": 3,
+          "content": "立ち上がり鎖3（マーカー）＋同じ角に長編み2→鎖1→前段の隙間ごとに【長編み3＋鎖1】×5→角は鎖3（長編み3が2回入る）で1周→最後は鎖1＋マーカーに中長編み（1辺6ブロック）",
+          "counts": true
+        },
+        {
+          "rowNo": 4,
+          "content": "2段目と同じ編み方（角は鎖3・1辺7ブロック）",
+          "counts": true
+        },
+        {
+          "rowNo": 5,
+          "content": "2段目と同じ編み方（1辺8ブロック）",
+          "counts": true
+        },
+        {
+          "rowNo": 6,
+          "content": "2段目と同じ編み方（1辺9ブロック）",
+          "counts": true
+        },
+        {
+          "rowNo": 7,
+          "content": "2段目と同じ編み方（1辺10ブロック）",
+          "counts": true
+        },
+        {
+          "rowNo": 8,
+          "content": "2段目と同じ編み方（1辺11ブロック）",
+          "counts": true
+        },
+        {
+          "rowNo": 9,
+          "content": "2段目と同じ編み方（1辺12ブロック）",
+          "counts": true
+        },
+        {
+          "rowNo": 10,
+          "content": "2段目と同じ編み方（1辺13ブロック）",
+          "counts": true
+        },
+        {
+          "rowNo": 11,
+          "content": "フリル（糸替え）: 前段最後の中長編みでフリル糸に交換→鎖1＋隙間に細編み1（下の目にマーカー）→【鎖5＋次の隙間に細編み1】で1周（角は鎖5して同じ隙間にもう一度細編み）→最後は鎖5＋マーカーに引き抜き編み",
+          "counts": true
+        },
+        {
+          "rowNo": 12,
+          "content": "糸を15cmほど残してカットし、糸始末して完成",
+          "counts": false
+        }
+      ]
+    }
+  ],
+  "diagrams": [
+    {
+      "type": "youtube",
+      "value": "https://youtu.be/iC0xVZ47eHA",
+      "caption": "編み方動画（Subibiちゃんねる）",
+      "sortOrder": 0
+    }
+  ]
+}

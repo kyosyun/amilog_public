@@ -1,6 +1,23 @@
 {
   "format": "amilog-recipe",
   "version": 2,
+  "materials": [
+    {
+      "kind": "yarn",
+      "name": "コットン糸（合太〜並太）",
+      "amount": {
+        "value": 0.5,
+        "unit": "玉"
+      },
+      "needle": "かぎ針5/0〜7/0号",
+      "links": []
+    },
+    {
+      "kind": "needle",
+      "name": "かぎ針5/0〜7/0号",
+      "links": []
+    }
+  ],
   "recipe": {
     "title": "まんまるコースター",
     "craft": "crochet",
@@ -52,5 +69,18 @@
       ]
     }
   ],
-  "diagrams": []
+  "diagrams": [
+    {
+      "type": "youtube",
+      "value": "https://youtu.be/GOC9ZiTrbgk",
+      "caption": "参考動画: 円の編み方の基本（Subibiちゃんねる）",
+      "sortOrder": 0
+    },
+    {
+      "type": "youtube",
+      "value": "https://youtu.be/ub4bQ8PiQIQ",
+      "caption": "参考動画: 細編みの基本（Subibiちゃんねる）",
+      "sortOrder": 1
+    }
+  ]
 }

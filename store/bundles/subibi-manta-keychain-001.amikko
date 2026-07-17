@@ -1,0 +1,214 @@
+{
+  "format": "amilog-recipe",
+  "version": 2,
+  "materials": [
+    {
+      "kind": "yarn",
+      "name": "ダイソー「アクリルヤーン」",
+      "color": "ネイビー",
+      "amount": {
+        "value": 0.25,
+        "unit": "玉"
+      },
+      "links": []
+    },
+    {
+      "kind": "yarn",
+      "name": "ダイソー「アクリルヤーン」",
+      "color": "ホワイト",
+      "amount": {
+        "value": 0.25,
+        "unit": "玉"
+      },
+      "links": []
+    },
+    {
+      "kind": "needle",
+      "name": "かぎ針4号",
+      "links": []
+    },
+    {
+      "kind": "accessory",
+      "name": "マーカー×2・とじ針",
+      "links": []
+    }
+  ],
+  "recipe": {
+    "title": "マンタキーホルダー",
+    "craft": "crochet",
+    "level": "L1",
+    "difficulty": "初級",
+    "memo": "ダイソー「アクリルヤーン」ネイビー・ホワイト各1/4玉・かぎ針4号・マーカー2個。約1時間で編める小さな作品。キーホルダーのほか、リップやワイヤレスイヤホンのケースにも🌊 減らし目の1目めには毎段マーカーを。"
+  },
+  "parts": [
+    {
+      "name": "本体（紺・白で2枚編む）",
+      "sortOrder": 0,
+      "targetRows": 18,
+      "rows": [
+        {
+          "rowNo": 1,
+          "content": "作り目: 鎖編み13目",
+          "counts": false
+        },
+        {
+          "rowNo": 2,
+          "content": "端から2目めの上半目から細編み12目（1目めの真下にマーカー。毎段同じ側に付け直す）",
+          "counts": true
+        },
+        {
+          "rowNo": 3,
+          "content": "鎖1で立ち上がり→編み地を返して細編み12目",
+          "counts": true
+        },
+        {
+          "rowNo": 4,
+          "content": "鎖1→返して 増し目・細編み10・増し目（計14目）",
+          "counts": true
+        },
+        {
+          "rowNo": 5,
+          "content": "鎖1→返して細編み14目→続けて鎖編み7目",
+          "counts": true
+        },
+        {
+          "rowNo": 6,
+          "content": "返さずに鎖の2目めの上半目から細編み6目→そのまま本体に続けて計20目→最後に鎖編み7目",
+          "counts": true
+        },
+        {
+          "rowNo": 7,
+          "content": "同様に鎖の2目めから細編み6目→本体に続けて計20目",
+          "counts": true
+        },
+        {
+          "rowNo": 8,
+          "content": "鎖1→返して 減らし目・細編み22・減らし目",
+          "counts": true
+        },
+        {
+          "rowNo": 9,
+          "content": "鎖1→返して 減らし目・細編み20・減らし目",
+          "counts": true
+        },
+        {
+          "rowNo": 10,
+          "content": "減らし目・細編み18・減らし目",
+          "counts": true
+        },
+        {
+          "rowNo": 11,
+          "content": "減らし目・細編み16・減らし目",
+          "counts": true
+        },
+        {
+          "rowNo": 12,
+          "content": "減らし目2回・細編み10・減らし目2回",
+          "counts": true
+        },
+        {
+          "rowNo": 13,
+          "content": "減らし目2回・細編み6・減らし目2回",
+          "counts": true
+        },
+        {
+          "rowNo": 14,
+          "content": "細編み10目",
+          "counts": true
+        },
+        {
+          "rowNo": 15,
+          "content": "減らし目・細編み6・減らし目",
+          "counts": true
+        },
+        {
+          "rowNo": 16,
+          "content": "減らし目・細編み4・減らし目",
+          "counts": true
+        },
+        {
+          "rowNo": 17,
+          "content": "減らし目を3回",
+          "counts": true
+        },
+        {
+          "rowNo": 18,
+          "content": "減らし目・細編み1",
+          "counts": true
+        },
+        {
+          "rowNo": 19,
+          "content": "細編み2目→鎖1して15cmほど残してカット（口側が頭・反対が尻尾）",
+          "counts": true
+        },
+        {
+          "rowNo": 20,
+          "content": "同じものを白い糸でもう1枚編む（計2枚）",
+          "counts": false
+        }
+      ]
+    },
+    {
+      "name": "模様・触角",
+      "sortOrder": 1,
+      "targetRows": 0,
+      "rows": [
+        {
+          "rowNo": 1,
+          "content": "背模様: 白糸約30cmをとじ針に通し、紺の面にお好みで模様をステッチ（裏で玉止め・糸始末）",
+          "counts": false
+        },
+        {
+          "rowNo": 2,
+          "content": "触角: 頭の角に糸を付け鎖4→端から2目めに引き抜き1・細編み1・中長編み1→編み始めの隣の目に引き抜き→鎖1、15cmでカット（左右・2枚とも同様）",
+          "counts": false
+        }
+      ]
+    },
+    {
+      "name": "仕上げ（綴じ・ループ）",
+      "sortOrder": 2,
+      "targetRows": 5,
+      "rows": [
+        {
+          "rowNo": 1,
+          "content": "2枚を合わせ、触角の左から尻尾まで縁を引き抜き編みで綴じる（口側は開けたまま。裏のラインが揃うときれい）",
+          "counts": true
+        },
+        {
+          "rowNo": 2,
+          "content": "尻尾: 鎖編み15目→端から2目めから引き抜き編み14目で戻る",
+          "counts": true
+        },
+        {
+          "rowNo": 3,
+          "content": "反対側の縁も触角まで引き抜き編みで綴じる→鎖1・15cmほど残してカットし糸始末",
+          "counts": true
+        },
+        {
+          "rowNo": 4,
+          "content": "紺側ループ: 触角の間の中心に糸を付け鎖6→編み始めに引き抜いて小さな輪→鎖1・カットして糸端を結ぶ",
+          "counts": true
+        },
+        {
+          "rowNo": 5,
+          "content": "白側ループ: 中心に糸を付け鎖50（長さはお好みで）→同じ場所に引き抜き→鎖1・カットして結び、糸始末して完成",
+          "counts": true
+        },
+        {
+          "rowNo": 6,
+          "content": "使い方: 白の長い輪を紺の小さい輪に通して留める（イヤホン・リップケースにも）",
+          "counts": false
+        }
+      ]
+    }
+  ],
+  "diagrams": [
+    {
+      "type": "youtube",
+      "value": "https://youtu.be/fA2k6bprtZo",
+      "caption": "編み方動画（Subibiちゃんねる）",
+      "sortOrder": 0
+    }
+  ]
+}

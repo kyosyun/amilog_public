@@ -1,0 +1,129 @@
+{
+  "format": "amilog-recipe",
+  "version": 2,
+  "materials": [
+    {
+      "kind": "yarn",
+      "name": "セリア「POM」",
+      "color": "1番(白)・4番(黄) など好きな2色",
+      "links": [],
+      "substitutes": [
+        {
+          "name": "お好きな余り糸",
+          "note": "どんな毛糸でも作れます"
+        }
+      ]
+    },
+    {
+      "kind": "needle",
+      "name": "かぎ針5号",
+      "links": []
+    },
+    {
+      "kind": "accessory",
+      "name": "丸カン 大12mm×3・小8mm×5",
+      "links": []
+    },
+    {
+      "kind": "accessory",
+      "name": "真珠風ビーズ(6mm)×3・キーホルダー金具",
+      "links": []
+    }
+  ],
+  "recipe": {
+    "title": "ミニハートチャーム",
+    "craft": "crochet",
+    "level": "L1",
+    "difficulty": "入門",
+    "memo": "セリア「POM」など好きな糸2色・かぎ針5号。金具（丸カン大12mm×3・小8mm×5・真珠風ビーズ×3・キーホルダー金具）は100均でOK。輪の中に編むだけでハートができる、余り糸にもぴったりの小物🧡"
+  },
+  "parts": [
+    {
+      "name": "ハート（3つ作る）",
+      "sortOrder": 0,
+      "targetRows": 7,
+      "rows": [
+        {
+          "rowNo": 1,
+          "content": "準備: 指2本に糸を12回巻き付けて輪を作り、輪の中から糸を1回引き出して引き抜く（目には数えない）",
+          "counts": false
+        },
+        {
+          "rowNo": 2,
+          "content": "鎖編み3目（立ち上がり）",
+          "counts": true
+        },
+        {
+          "rowNo": 3,
+          "content": "輪の中に長々編み3目",
+          "counts": true
+        },
+        {
+          "rowNo": 4,
+          "content": "輪の中に長編み3目",
+          "counts": true
+        },
+        {
+          "rowNo": 5,
+          "content": "鎖1＋輪の中に長々編み1目（ハートの下の先になる）",
+          "counts": true
+        },
+        {
+          "rowNo": 6,
+          "content": "鎖1＋輪の中に長編み3目",
+          "counts": true
+        },
+        {
+          "rowNo": 7,
+          "content": "輪の中に長々編み3目",
+          "counts": true
+        },
+        {
+          "rowNo": 8,
+          "content": "鎖3＋輪の残りに引き抜き編み",
+          "counts": true
+        },
+        {
+          "rowNo": 9,
+          "content": "10cmほど残してカット→編み始めの糸端を軽く引き、短くなった方の糸を引いて輪をキュッと絞る→糸端2本を結んで裏側で糸始末",
+          "counts": false
+        },
+        {
+          "rowNo": 10,
+          "content": "同じものを合計3つ作る（色の組み合わせはお好みで）",
+          "counts": false
+        }
+      ]
+    },
+    {
+      "name": "組み立て",
+      "sortOrder": 1,
+      "targetRows": 0,
+      "rows": [
+        {
+          "rowNo": 1,
+          "content": "大きい丸カン（12mm）に真珠風ビーズを1つ通し、各ハートの上部に付ける（×3）",
+          "counts": false
+        },
+        {
+          "rowNo": 2,
+          "content": "小さい丸カン（8mm）でハートの下のV部分と次のハートを縦に繋ぐ",
+          "counts": false
+        },
+        {
+          "rowNo": 3,
+          "content": "一番上に小さい丸カンを付け、キーホルダー金具に繋いで完成",
+          "counts": false
+        }
+      ]
+    }
+  ],
+  "diagrams": [
+    {
+      "type": "youtube",
+      "value": "https://youtu.be/81GfwtJEbxg",
+      "caption": "編み方動画（Subibiちゃんねる）",
+      "sortOrder": 0
+    }
+  ]
+}

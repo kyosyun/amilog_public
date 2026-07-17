@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-08",
+  "updatedAt": "2026-07-14",
   "items": [
     {
       "id": "official-garter-scarf-001",
@@ -31,6 +31,51 @@
         "かぎ針"
       ],
       "publishedAt": "2026-07-08"
+    },
+    {
+      "id": "subibi-heart-charm-001",
+      "title": "ミニハートチャーム",
+      "author": "すびび（Subibiちゃんねる）",
+      "craft": "crochet",
+      "level": "L1",
+      "difficulty": "入門",
+      "price": 0,
+      "coverUrl": "covers/subibi-heart-charm-001.png",
+      "bundleUrl": "bundles/subibi-heart-charm-001.amikko",
+      "tags": [
+        "かぎ針"
+      ],
+      "publishedAt": "2026-07-14"
+    },
+    {
+      "id": "subibi-manta-keychain-001",
+      "title": "マンタキーホルダー",
+      "author": "すびび（Subibiちゃんねる）",
+      "craft": "crochet",
+      "level": "L1",
+      "difficulty": "初級",
+      "price": 0,
+      "coverUrl": "covers/subibi-manta-keychain-001.png",
+      "bundleUrl": "bundles/subibi-manta-keychain-001.amikko",
+      "tags": [
+        "かぎ針"
+      ],
+      "publishedAt": "2026-07-14"
+    },
+    {
+      "id": "subibi-square-scrunchie-001",
+      "title": "スクエアシュシュ",
+      "author": "すびび（Subibiちゃんねる）",
+      "craft": "crochet",
+      "level": "L1",
+      "difficulty": "入門",
+      "price": 0,
+      "coverUrl": "covers/subibi-square-scrunchie-001.png",
+      "bundleUrl": "bundles/subibi-square-scrunchie-001.amikko",
+      "tags": [
+        "かぎ針"
+      ],
+      "publishedAt": "2026-07-14"
     }
   ]
 }

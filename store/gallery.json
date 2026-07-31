@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "updatedAt": "2026-07-31",
+  "items": [
+    {
+      "id": "g-subibi-heart-charm-001",
+      "recipeId": "subibi-heart-charm-001",
+      "author": "Subibiちゃんねる",
+      "photoUrl": "covers/subibi-heart-charm-001.png",
+      "comment": "輪の中に編むだけでハートができる、余り糸にもぴったりのミニチャームです。",
+      "createdAt": "2026-07-14",
+      "link": "https://youtu.be/81GfwtJEbxg"
+    },
+    {
+      "id": "g-subibi-manta-keychain-001",
+      "recipeId": "subibi-manta-keychain-001",
+      "author": "Subibiちゃんねる",
+      "photoUrl": "covers/subibi-manta-keychain-001.png",
+      "comment": "約1時間で編める小さなマンタ。キーホルダーやイヤホンケースにもなります。",
+      "createdAt": "2026-07-14",
+      "link": "https://youtu.be/fA2k6bprtZo"
+    },
+    {
+      "id": "g-subibi-square-scrunchie-001",
+      "recipeId": "subibi-square-scrunchie-001",
+      "author": "Subibiちゃんねる",
+      "photoUrl": "covers/subibi-square-scrunchie-001.png",
+      "comment": "グラニースクエアとほぼ同じ編み方の繰り返しで作れる、見た目より簡単なスクエアシュシュです。",
+      "createdAt": "2026-07-14",
+      "link": "https://youtu.be/iC0xVZ47eHA"
+    }
+  ]
+}
